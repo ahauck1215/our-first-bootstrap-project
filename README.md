@@ -1,15 +1,25 @@
 # Our First Bootstrap Project
 
-## Purpose
+### Purpose
 * To gain familiarity with a _bootstrap_ project
-* To establish good `git` collaboration practices
+	* [Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)) is a framework containing built-in CSS and JavaScript tools for designing web components.
 
 
-## Objective
-* To create an `index.html` webpage that has a link to each of your profile pages.
+### Objective
+* To create a website that _mocks_ the user-experience of a very simple online store.
+
+### Specifications
+* must include custom-styling.
+* must include **at least** four pages.
+	1. The home page
+	2. The purchase-item page
+	3. The about-us page
+	4. A page of your group's choice
+
+<hr><hr>
 
 
-### Git Collaboration Strategy
+## Git Collaboration Strategy
 
 #### Part 1 - Assigning an origin-owner
 1. Assign one person to _fork_ the original repository. This will be the _origin-owner_.
@@ -18,7 +28,7 @@
 
 
 #### Part 2 - Pushing your first change
-1. As each of you complete a `profile.html`, ensure that you are _pushing_ your changes.
+1. As each of you complete a different part of the application, ensure that you are _pushing_ your changes.
 	* _changes_ can be _pushed_ by executing the following commands.
 		1. `git add .`
 		2. `git commit -m 'update message'`
@@ -32,11 +42,7 @@
 	3. `git commit -m 'merged with master'`
 	4. `git push -u origin master`
 
-#### Part 4 - Edit the `index.html`
-* Edit the `index.html` page to include a link to each of the newly created `profile.html` pages.
-
-
-#### Part 5 - Publish the project online
+#### Part 4 - Publish the project online
 1. Navigate to the _settings_ tab of the repository.
 2. Scroll down until you see `GitHub Pages` section
 3. Select `Use the master branch for Github Pages`
