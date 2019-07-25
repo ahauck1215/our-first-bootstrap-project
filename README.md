@@ -11,10 +11,10 @@
 ### Specifications
 * must include custom-styling.
 * must include **at least** four pages.
-	1. The home page
-	2. The purchase-item page
-	3. The about-us page
-	4. A page of your group's choice
+	1. an _about_ page
+	2. a _shop_ page
+	2. a _purchase-item_ page
+	3. a _home_ page
 
 <hr><hr>
 
