@@ -1,4 +1,4 @@
 body {
   padding-top: 56px;
+  background-image: linear-gradient(to bottom right, rgb(230, 217, 217), pink,orange,red,aqua,green);
 }
-body {background-color: coral;}
