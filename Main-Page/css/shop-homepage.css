@@ -12,7 +12,10 @@ ul.topnav {
   background-color: rgb(232, 65, 67);
 }
 
-ul.topnav li {float: left;}
+ul.topnav li {
+  float: none;
+  display: inline-block;
+}
 
 ul.topnav li a {
   display: block;

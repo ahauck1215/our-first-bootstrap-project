@@ -1,3 +1,37 @@
 body {
   padding-top: 56px;
+  background-image: linear-gradient(pink, lightblue);
 }
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:lightblue;
+}
+
+ul.topnav li {
+  float: none;
+  display: inline-block;
+}
+
+ul.topnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: #111;}
+
+ul.topnav li a.active {background-color: rgb(136,203 ,171);}
+
+ul.topnav li.right {float: right;}
+
+@media screen and (max-width: 600px) {
+  ul.topnav li.right, 
+  ul.topnav li {float: none;}
+}
+.carousel-inner { background-color: rgb(232, 65, 67);}
