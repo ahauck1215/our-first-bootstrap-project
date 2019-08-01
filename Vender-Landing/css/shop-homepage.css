@@ -1,14 +1,14 @@
 body {
   padding-top: 56px;
 }
-body {background-color: coral;}
+body {background-color: pink;}
 
 ul.topnav {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: rgb(232, 65, 67);
+  background-color: rgb(144, 210, 236);
 }
 
 ul.topnav li {
@@ -34,4 +34,4 @@ ul.topnav li.right {float: right;}
   ul.topnav li.right, 
   ul.topnav li {float: none;}
 }
-.carousel-inner { background-color: rgb(232, 65, 67);}
+.carousel-inner { background-color: rgb(255, 149, 220);}
