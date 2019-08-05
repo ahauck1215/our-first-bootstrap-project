@@ -35,3 +35,15 @@ ul.topnav li.right {float: right;}
   ul.topnav li {float: none;}
 }
 .carousel-inner { background-color: rgb(232, 65, 67);}
+.topleft {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-size: 18px;
+}
+
+img { 
+  width: 100%;
+  height: auto;
+  opacity: 0.3;
+}
