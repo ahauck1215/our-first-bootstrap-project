@@ -1,7 +1,8 @@
 body {
   padding-top: 56px;
   
-  background-image: linear-gradient(to bottom right, rgb(230, 217, 217), red,lightblue,red,lightblue);
+  background-image: linear-gradient(lightpink, aqua);
+}
 }
 
 ul.topnav {
@@ -35,7 +36,7 @@ ul.topnav li.right {float: right;}
   ul.topnav li.right, 
   ul.topnav li {float: none;}
 }
-.carousel-inner { background-color: rgb(232, 65, 67);}
+.carousel-inner { background-color: none;}
  
 .card-body {padding-bottom: 20px; }
 .card h-100{padding-bottom: 1px;}
