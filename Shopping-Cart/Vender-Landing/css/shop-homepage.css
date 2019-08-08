@@ -1,6 +1,7 @@
 body {
   padding-top: 56px;
 }
+body {background-color: pink;}
 
 ul.topnav {
   list-style-type: none;
@@ -39,4 +40,4 @@ ul.topnav li.right {float: right;}
   ul.topnav li.right, 
   ul.topnav li {float: none;}
 }
-.carousel-inner { background-color: rgb(232, 65, 67);}
+.carousel-inner { background-color: rgb(255, 149, 220);}
