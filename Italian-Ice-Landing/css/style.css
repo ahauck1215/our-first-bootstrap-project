@@ -1,7 +1,7 @@
 body {
   padding-top: 56px;
   
-  background-image: linear-gradient(lightpink, rgb(136,203 ,171),lightpink);
+  background-image: linear-gradient(lightpink,  rgb(160, 218, 255),lightpink);
 }
 
 ul.topnav {
@@ -39,8 +39,8 @@ ul.topnav li.right {float: right;}
  
 .small-box{ height:30px;}
 
-.card-img-top { height: 150px;
-width: 300px;
+.card-img-top { height: 400px;
+width: 450px;
 align-items: center;}
 #card-body {width: 350px;}
-.row {width: 1350px; }
+.row {width: 1500px; }
