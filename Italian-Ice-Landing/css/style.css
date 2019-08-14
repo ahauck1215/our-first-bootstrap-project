@@ -1,7 +1,7 @@
 body {
   padding-top: 56px;
   
-  background-image: linear-gradient(lightpink,  rgb(160, 218, 255),lightpink);
+  background-image: linear-gradient( rgb(160, 218, 255), rgb(160, 218, 255));
 }
 
 ul.topnav {
@@ -27,7 +27,7 @@ ul.topnav li a {
 
 ul.topnav li a:hover:not(.active) {background-color: #111;}
 
-ul.topnav li a.active {background-color: rgb(136,203 ,171);}
+ul.topnav li a.active {background-color: rgb(160,218,255);}
 
 ul.topnav li.right {float: right;}
 
@@ -37,10 +37,10 @@ ul.topnav li.right {float: right;}
 }
 .carousel-inner { background-color: none;}
  
-.small-box{ height:30px;}
+.small-box{ height:40px;}
 
 .card-img-top { height: 400px;
-width: 450px;
+width: 467px;
 align-items: center;}
-#card-body {width: 350px;}
+#card-body {width: 400px;}
 .row {width: 1500px; }
