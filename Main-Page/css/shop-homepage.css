@@ -1,7 +1,9 @@
 body {
   padding-top: 56px;
   margin: 0;
-  background-color: rgb(160, 218, 255);
+  /* background-color: rgb(160, 218, 255); */
+  /* background-image: linear-gradient(rgb(232, 65, 67), rgb(160, 218, 255)); */
+  background-image: linear-gradient(rgb(160, 218, 255), rgb(232, 65, 67));
 }
 
 
@@ -36,7 +38,7 @@ ul.topnav li.right {float: right;}
   ul.topnav li.right, 
   ul.topnav li {float: none;}
 }
-.carousel-inner { background-color: rgb(232, 65, 67);}
+.carousel-inner { background-color: none;}
 
 .logo {align: left;
-padding-left: 25px}
+padding-left: 25px;}
