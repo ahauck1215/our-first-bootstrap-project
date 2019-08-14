@@ -1,5 +1,6 @@
 body {
   padding-top: 56px;
+  background-color: linear-gradient( rgb(160, 218, 255), rgb(232, 65, 67));
 }
 
 ul.topnav {
@@ -39,4 +40,4 @@ ul.topnav li.right {float: right;}
   ul.topnav li.right, 
   ul.topnav li {float: none;}
 }
-.carousel-inner { background-color: rgb(232, 65, 67);}
+.carousel-inner { background-color: none;}
