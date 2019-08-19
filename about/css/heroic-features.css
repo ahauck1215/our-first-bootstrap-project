@@ -44,3 +44,14 @@ ul.topnav li.right {float: right;}
   margin-left: 200px;
   margin-right: auto;
 }
+.jumbotron{
+  position:center;
+  min-width: width 10px;;
+  min-height:10px;
+  top:-50px;
+  left:-50px;
+}
+.jumbotron img{
+  min-width:10%;
+  min-height:10%;
+}
