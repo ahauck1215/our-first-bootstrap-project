@@ -41,9 +41,7 @@ ul.topnav li.right {float: right;}
 }
 .carousel-inner { background-color: none;}
 #things {
- 
-  margin-left: 200px;
-  margin-right: auto;
+ justify-content: center;
 }
 .jumbotron{
   position:center;
